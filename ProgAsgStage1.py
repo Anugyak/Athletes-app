@@ -1,6 +1,4 @@
-##Name and ID
-##Date created: 24 Feb, 2022
-##Date last changed: 24 Feb, 2022
+
 ##This program prints the menu to choose the option i.e. Athletes information, search athletes and exit
 ##the athletes information prints all the details of athletes in the list,
 ##search athletes searches the sport in the list and displays the entire row of than sport
